@@ -27,6 +27,7 @@ import com.springsource.greenhouse.utils.Location;
 /**
  * Resolves the user's geo location from client-submitted query parameters, if present in the request.
  * @author Keith Donald
+ * test2 by matt downs
  */
 public class UserLocationHandlerInterceptor implements HandlerInterceptor {
 
