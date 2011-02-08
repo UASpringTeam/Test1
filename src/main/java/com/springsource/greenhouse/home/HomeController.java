@@ -29,6 +29,7 @@ import com.springsource.greenhouse.activity.recent.RecentActivityRepository;
 /**
  * Controller for the homepage of the application.
  * @author Keith Donald
+ * Modified by Matt Downs
  */
 @Controller
 public class HomeController {
