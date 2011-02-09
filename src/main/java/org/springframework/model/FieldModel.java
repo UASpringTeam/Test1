@@ -20,6 +20,7 @@ package org.springframework.model;
  * TODO experimental.
  * @author Keith Donald
  */
+//This class is so cool
 public class FieldModel<T> {
 
 	private String errorMessage;
