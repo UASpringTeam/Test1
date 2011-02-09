@@ -18,7 +18,7 @@ package com.springsource.greenhouse.activity.action;
 import org.joda.time.DateTime;
 import com.springsource.greenhouse.account.Account;
 import com.springsource.greenhouse.utils.Location;
-
+// OH MAN THIS IS THE BEST COMMENT EVER
 /**
  * A SimpleAction definition.
  * Has a single String 'type' field that captures the type of action that was performed e.g signedUp.
