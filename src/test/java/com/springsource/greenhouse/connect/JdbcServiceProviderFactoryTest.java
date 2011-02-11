@@ -39,7 +39,7 @@ public class JdbcServiceProviderFactoryTest {
 			db.shutdown();
 		}
 	}
-
+//test2
 	@Test
 	public void getAccountProvider() {
 		ServiceProvider<TwitterOperations> twitterProvider = providerFactory.getServiceProvider("twitter", TwitterOperations.class);
